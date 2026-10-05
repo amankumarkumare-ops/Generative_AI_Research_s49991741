@@ -1,0 +1,9 @@
+Participant_ID,Age,Gender,AI_Tool_Used,Frequency_of_Use,Productivity_Rating(1-10),Concerns_About_AI,Recommend_AI
+P001,22,Male,ChatGPT,Daily,8,Yes privacy concerns,Yes
+P002,25,Female,Claude,Weekly,7,No concerns,Yes
+P003,28,Male,GitHub Copilot,Daily,9,Yes job displacement,Yes
+P004,24,Female,ChatGPT,Monthly,5,Yes accuracy issues,No
+P005,30,Male,Multiple,Weekly,6,Yes privacy and accuracy,Yes
+P006,23,Female,Claude,Daily,9,No concerns,Yes
+P007,27,Male,GitHub Copilot,Weekly,8,Yes over-reliance,Yes
+P008,26,Female,Multiple,Daily,7,Yes ethical concerns,Yes

@@ -1,0 +1,5 @@
+Project Logbook - Generative AI Research
+
+This logbook tracks key activities, decisions, and milestones throughout the research project.
+
+Entry 1 - Project initialised and repository created.
