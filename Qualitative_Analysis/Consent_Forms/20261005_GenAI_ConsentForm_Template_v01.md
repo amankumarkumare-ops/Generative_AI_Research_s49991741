@@ -2,7 +2,7 @@
 
 ## Project: Using Generative AI Tools - Boon or Bane
 
-### [Template v01 - 5 October 2026]
+### [Template v01 - 18 September 2026]
 
 ---
 
