@@ -1,6 +1,6 @@
 # Research Proposal: Using Generative AI Tools - Boon or Bane
 
-## [Draft v01 - 5 October 2026]
+## [Draft v01 - 18 September 2026]
 
 ## 1. Introduction
 
